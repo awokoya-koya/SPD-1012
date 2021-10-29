@@ -32,6 +32,9 @@ The rules are:
 
 
 If the user option is greater than the server option, the user receives a point, if not the user receives no point, the user has 3 chances and must get at least 2 points to win.
+There would be Booleans statements for the rules, If the user option is greater than the server option, the user receives a point (counter +1),
+if not the user receives no point (counter +0), the user has 3 chances and must get at least 2 points to win.
+
 
 REQUIREMENTS
 
@@ -49,6 +52,17 @@ REQUIREMENTS
 
 •	A refresh button will be at the top right to reset the game and erase recorded entries
 
-•	(optional) A record will be kept for the user and server's record
+•	3 buttons for user’s choice 
+
+•	A random generator for computer’s choice
+
+•	A counter for wins 
+
+•	Boolean conditions to determine if player choice is greater than computer’s choice
+
+•	Program breaks after 3 tries
+
+•	A Boolean condition to determine if the user wins or lose
+
+•       A record will be kept for the user and server's record
  
-![image](https://user-images.githubusercontent.com/77374546/136643516-3d6ff581-c3e7-4e51-a8d7-234929bd751c.png)
